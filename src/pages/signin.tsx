@@ -1,7 +1,7 @@
-import { ThemedText } from '@/components/themed-text'
 import { Link } from 'expo-router'
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
+import { ThemedText } from '../components/themed-text'
 
 const signin = () => {
   return (

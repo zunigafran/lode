@@ -1,1 +1,1 @@
-export { default } from '@/src/app/home';
+export { default } from '@/src/app/signup';
